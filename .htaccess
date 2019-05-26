@@ -1,8 +1,5 @@
 <Limit POST GET PUT>
 order deny,allow
-aaaaaaaaaaaaaa
-aaaaa
 deny from all
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 allow from 130.34.
 </Limit>
